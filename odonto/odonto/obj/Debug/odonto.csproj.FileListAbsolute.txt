@@ -1,0 +1,12 @@
+c:\users\almir\documents\visual studio 2015\Projects\odonto\odonto\bin\Debug\odonto.exe.config
+c:\users\almir\documents\visual studio 2015\Projects\odonto\odonto\bin\Debug\odonto.exe
+c:\users\almir\documents\visual studio 2015\Projects\odonto\odonto\bin\Debug\odonto.pdb
+c:\users\almir\documents\visual studio 2015\Projects\odonto\odonto\obj\Debug\odonto.csprojResolveAssemblyReference.cache
+c:\users\almir\documents\visual studio 2015\Projects\odonto\odonto\obj\Debug\odonto.Form1.resources
+c:\users\almir\documents\visual studio 2015\Projects\odonto\odonto\obj\Debug\odonto.Properties.Resources.resources
+c:\users\almir\documents\visual studio 2015\Projects\odonto\odonto\obj\Debug\odonto.csproj.GenerateResource.Cache
+c:\users\almir\documents\visual studio 2015\Projects\odonto\odonto\obj\Debug\odonto.exe
+c:\users\almir\documents\visual studio 2015\Projects\odonto\odonto\obj\Debug\odonto.pdb
+C:\Users\Almir\Documents\Visual Studio 2015\Projects\odonto\odonto\obj\Debug\odonto.Form2.resources
+C:\Users\Almir\Documents\Visual Studio 2015\Projects\odonto\odonto\obj\Debug\odonto.Form3.resources
+C:\Users\Almir\Documents\Visual Studio 2015\Projects\odonto\odonto\obj\Debug\odonto.Form4.resources
